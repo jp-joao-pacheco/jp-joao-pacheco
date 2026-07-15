@@ -45,14 +45,14 @@
 <hr></hr>
 </br>
 <p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=sz-joao-pacheco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="sz-joao-pacheco" width="50%" height="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jp-joao-pacheco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="jp-joao-pacheco" width="50%" height="50%"/>
 </p>
 
 <hr></hr>
 </br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sz-joao-pacheco/sz-joao-pacheco/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sz-joao-pacheco/sz-joao-pacheco/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sz-joao-pacheco/sz-joao-pacheco/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jp-joao-pacheco/jp-joao-pacheco/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jp-joao-pacheco/jp-joao-pacheco/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jp-joao-pacheco/jp-joao-pacheco/output/github-contribution-grid-snake.svg">
 </picture>
